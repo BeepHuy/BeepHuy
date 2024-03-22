@@ -1,3 +1,14 @@
+<img alt="Intro" width="100%" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoRQ9LBQvdGZVWB9HxJc9m36hkO39Sszd8gLAdp7IIsTieHqsF3Hz2phgptUb7WBRDIjtrWeKT2k288oR8X3PLfCZ2Tw6hacJqbOwB5jKekSE0Sfn7GHXtOI0pntOim2WVYV2NF3-nfekN20pyojaJYxXkMGn3a_yM-Fp52CVZ_GBiIrbMdVo8zhGs/s960/Itachi%20live%20wallpaper%2021.gif">
+<h1 align="center">Hi 🐾 I'm Hoàng Quang </h1>
+<h3 align="center">A passionate Frontend Developer from Vietnam</h3>
+
+<div align="left">
+    
+[![](https://visitcount.itsvg.in/api?id=BeepHuy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ## 🌐 Socials:
 <div align="center">
     
@@ -42,7 +53,3 @@
 
 </div>
 ---
-
-[![](https://visitcount.itsvg.in/api?id=BeepHuy&icon=0&color=0)](https://visitcount.itsvg.in)]
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
